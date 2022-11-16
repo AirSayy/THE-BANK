@@ -19,8 +19,8 @@ If you choose to contribute.
 Its a Web application where potential tech employees can see a place where all the questions that have come up in interviews are likley to come are all stored in one place for free and its constantly being updated by contributors. The goal is to Reach out to as many early techies from all around the world as possible and help them prepare and get their dream jobs. 
 
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## Projects:
+Take a look at these projects that I have in my portfolio:
 
 **Miya Beauty Salon:** https://miyabeautysalon.netlify.app
 
