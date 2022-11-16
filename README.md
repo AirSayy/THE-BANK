@@ -1,6 +1,9 @@
+
 # THE-BANK
 An open source project that contains a compilation of Full stack interview questions and answers.
+.
 If you choose to contribute.
+.
 1. kindly add more questions and answers to the folders available.
 2. Create a different folder for a new set of tech interview questions with answers.
 3. Translate THE BANK and push to merge.
@@ -28,5 +31,9 @@ Take a look at these projects that I have in my portfolio:
 
 
 
-
+### THIS PROJECT IS DEDICATED TO LEON NOEL and #100DEVS. THANK YOU!
+.
+.
+.
+#### WHEN YOU MAKE A CONTRIBUTION AND IT HAS BEEN MERGED, YOU CAN FEEL FREE TO DROP WHO YOU ARE DEDICATING THIS PROJECT TO.
 
