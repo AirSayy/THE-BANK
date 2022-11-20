@@ -23,7 +23,7 @@ Its a Web application where potential tech employees can see a place where all t
 
 
 ## Projects:
-Take a look at these projects that I have in my portfolio:
+Take a look at these projects in my portfolio:
 
 **Miya Beauty Salon:** https://miyabeautysalon.netlify.app
 
