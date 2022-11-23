@@ -6,5 +6,6 @@ if the user can get the question displayed, the user can click on the question a
 The user can also filter through the sections and also through topics of interviews they want to study for.
 The user should also be able to save his preferred section/topic of choice and to review later
 Create an api for the answers so when its clicked it fetches the answer from the api.
-
+Create your Prototype and wireframes
+Check funtionality before developing.
 
