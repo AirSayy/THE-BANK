@@ -35,5 +35,5 @@ Take a look at these projects in my portfolio:
 .
 .
 .
-#### WHEN YOU MAKE A CONTRIBUTION AND IT HAS BEEN MERGED, YOU CAN FEEL FREE TO DROP WHO YOU ARE DEDICATING THIS PROJECT TO.
+
 
