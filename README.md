@@ -2,7 +2,7 @@
 # THE-BANK
 An open source project that contains a compilation of Full stack interview questions and answers.
 .
-If you choose to contribute.
+To contribute,
 .
 1. kindly add more questions and answers to the folders available.
 2. Create a different folder for a new set of tech interview questions with answers.
