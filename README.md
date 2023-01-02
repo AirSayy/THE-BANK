@@ -1,6 +1,6 @@
 
 # THE-BANK
-An open source project that contains a compilation of Full stack interview questions and answers.
+A project that contains a compilation of Full stack interview questions and answers.
 .
 To contribute,
 .
