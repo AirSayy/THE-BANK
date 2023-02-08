@@ -1,11 +1,15 @@
+Choose a frontend framework such as React or Angular to build the user interface.
 
-Finish the bank questions and answers.
-create the skeleton of the project.
-let all the questions be anchor tags to the answer.
-if the user can get the question displayed, the user can click on the question and the answer would be revealed. 
-The user can also filter through the sections and also through topics of interviews they want to study for.
-The user should also be able to save his preferred section/topic of choice and to review later
-Create an api for the answers so when its clicked it fetches the answer from the api.
-Create your Prototype and wireframes
-Check funtionality before developing.
+Choose a backend technology such as Node.js and Express to build the server-side logic.
 
+Design the database schema for storing quiz questions and answers. You can use a relational database management system like MySQL or a NoSQL database like MongoDB.
+
+Implement the APIs for retrieving the questions and submitting answers.
+
+Store the questions and answers in the database.
+
+Implement the logic for scoring the quiz and displaying the results.
+
+Deploy the application on a hosting platform such as Heroku or AWS.
+
+These are the basic steps for developing a full-stack quiz application using JavaScript. You can add additional features and customize the application as per your requirements.
