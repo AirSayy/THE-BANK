@@ -33,7 +33,6 @@ Take a look at these projects in my portfolio:
 
 ### THIS PROJECT IS DEDICATED TO LEON NOEL and #100DEVS. THANK YOU!
 .
-.
-.
+
 
 
