@@ -15,7 +15,7 @@ To contribute,
 ![THE BANK](https://user-images.githubusercontent.com/107049081/202275622-19e05398-3225-4d25-9087-67e8e218a53e.jpg)
 
 
-## How It's Made:
+## How It's Made
 
 **Tech used:** Figma, HTML, CSS, JavaScript, nodejs
 
