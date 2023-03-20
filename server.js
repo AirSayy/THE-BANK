@@ -9,7 +9,7 @@ const flash = require('express-flash') // HTTP requests pop up messages sent fro
 const logger = require('morgan') //enables login
 const connectDB = require('./config/database') // a variable where the database file in the config folder is stored
 const mainRoutes = require('./routes/main') // Required the main.js file to the server from the routes folder
-const todoRoutes = require('./routes/todos')// Required the todo.js file to the server from the routes folder
+const quizRoutes = require('./routes/quiz')// Required the todo.js file to the server from the routes folder
 
 // Required the globalenvironment variable from the config folder / .env that contains our Secrets. so the server can find it
 require('dotenv').config({path: './config/.env'})
@@ -44,7 +44,7 @@ app.use(flash())
   
 // HTTP paths
 app.use('/', mainRoutes)
-app.use('/todos', todoRoutes)
+app.use('/quiz', quizRoutes)
  
 // HTTP server listener.
 app.listen(process.env.PORT, ()=>{
