@@ -1,12 +1,6 @@
 
 # THE-BANK
 A project that has a compilation of Full stack interview questions and answers.
-.
-To contribute,
-.
-1. kindly add more questions and answers to the folders available.
-2. Create a different folder for a new set of tech interview questions with answers.
-3. Translate THE BANK in different languages.
 
 
 
