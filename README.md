@@ -11,7 +11,7 @@ A project that has a compilation of Full stack interview questions and answers.
 
 ## How It's Made
 
-**Tech used:** Figma, HTML, CSS, JavaScript, nodejs
+**Tech used:** Figma, HTML, CSS, JavaScript, Nodejs
 
 Its a Web application where potential tech employees can see a place where all the past questions in past interviews are likley to come are all stored in one place for free and its constantly being updated by contributors. The goal is to Reach out to as many early techies from all around the world as possible and help them prepare and get their dream jobs. 
 
