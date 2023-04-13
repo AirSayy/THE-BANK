@@ -69,7 +69,8 @@ const flash = require("express-flash")
 const logger = require("morgan")
 const connectDB = require("./config/database")
 const mainRoutes = require("./routes/main")
-const apptsRouter = require("./routes/appts")
+// const quizRoutes = require('./routes/quiz')
+
 const cors = require("cors")
 
 // Use path to access directory for static site serving
