@@ -5,8 +5,8 @@ import {toast} from 'react-toastify'
 import {TfiWrite} from 'react-icons/tfi'
 import {register, reset} from '../features/auth/authSlice'
 import Spinner from '../components/Spinner'
-import images from '../images/med-1.png'
-import logo from '../images/medimate 3.png'
+// import images from '../images/med-1.png'
+// import logo from '../images/medimate 3.png'
 
 function Register() {
   const [formData, setFormData] = useState({
