@@ -1,13 +1,14 @@
-import React from "react"
-import Component from "../components/Component"
+import React from "react";
+import Hero from "../components/Hero";
 
 const Landing = () => {
   return (
-    <div className="text-2xl font-bold">
-      Landing Page
-      <Component />
-    </div>
-  )
-}
+    <>
+      <div>
+        <Hero />
+        </div>
+        </>
+  );
+};
 
-export default Landing
+export default Landing;
