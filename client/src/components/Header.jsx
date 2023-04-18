@@ -22,7 +22,7 @@ function Header() {
       <header className="bg-gray-200 navbar flex justify-between items-center p-4">
         <div className="">
           <Link to="/">
-            <img src={Logo} className="w-10 h-10" alt="logo"></img>
+            <img src={Logo} className="w-10 h-10 rounded-full shadow-2xl" alt="logo"></img>
           </Link>
         </div>
         <ul className="menu menu-horizontal px-2">
