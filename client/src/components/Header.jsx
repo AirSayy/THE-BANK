@@ -4,8 +4,7 @@ import { TfiWrite } from "react-icons/tfi";
 import { Link, useNavigate } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import { logout, reset } from "../features/auth/authSlice";
-// import Logo from "../assets/logo/medimate.png";
-import Calendar from "../assets/icons/calendar.png";
+import Logo from "../assets/logo/bank.png";
 
 function Header() {
   const navigate = useNavigate();
@@ -23,7 +22,7 @@ function Header() {
       <header className="bg-gray-200 navbar flex justify-between items-center p-4">
         <div className="">
           <Link to="/">
-            {/* <img src={Logo} className="w-20 h-20"></img> */}<h3>BANK</h3>
+            <img src={Logo} className="w-10 h-10" alt="logo"></img>
           </Link>
         </div>
         <ul className="menu menu-horizontal px-2">

@@ -7,6 +7,7 @@ const Landing = () => {
       <div>
         <Hero />
         </div>
+        
         </>
   );
 };

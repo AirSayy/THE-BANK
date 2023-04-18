@@ -1,16 +1,16 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import DoctorGif from "../assets/icons/doctor.gif";
+// import { Link } from "react-router-dom";
+
 
 function Hero() {
   return (
-    <div className="">
+    <div>
       
 
-    <section class="  w-[50%] m-auto mt-[12%] shadow-2xl bg-center bg-no-repeat bg-[url('https://www.herzing.edu/sites/default/files/styles/fp_640_288/public/images/blog/students_study_1.jpg.webp?itok=riENGJSB')] bg-gray-400 rounded-3xl bg-blend-multiply">
+    <section class="  w-[50%] m-auto mt-[5%] shadow-2xl bg-center bg-no-repeat bg-[url('https://www.herzing.edu/sites/default/files/styles/fp_640_288/public/images/blog/students_study_1.jpg.webp?itok=riENGJSB')] bg-gray-300 rounded-3xl bg-blend-multiply">
         <div class="  px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
-            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">THE BANK</h1>
-            <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Prepare for your technical interviews with quizzes.</p>
+            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-black md:text-5xl lg:text-6xl">THE BANK</h1>
+            <p class="mb-8 text-lg font-normal text-black lg:text-xl sm:px-16 lg:px-48">Prepare for your technical interviews with quizzes.</p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                 {/* <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                     Get started
