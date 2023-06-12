@@ -1,6 +1,6 @@
 
 # THE-BANK
-A project that has a compilation of Full stack interview questions and answers.
+A fullstack quiz app of Technical interview questions and answers.
 
 
 
